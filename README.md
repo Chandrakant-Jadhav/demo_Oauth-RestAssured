@@ -1,2 +1,2 @@
 # demo_Oauth
-Rest Assured automation suite demonstrating OAuth 2.0 based authentication for an e‑commerce API, including POJO‑based request/response models, serialization–deserialization, spec builder usage, and end‑to‑end test scenarios.
+This project contains Rest Assured tests for OAuth 2.0 secured e‑commerce APIs, covering login, course retrieval and other flows using Java POJOs, request/response specifications and reusable utilities.
